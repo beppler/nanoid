@@ -11,6 +11,6 @@
     "author": "Carlos Alberto Costa Beppler <beppler@gmail.com>",
     "license": "MIT",
     "publishConfig": {
-        "@beppler:registry": "https://npm.pkg.github.com"
+        "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
     }
 }

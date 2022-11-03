@@ -1,5 +1,5 @@
 {
-    "name": "nanoid",
+    "name": "@beppler/nanoid",
     "version": "1.0.0",
     "description": "Implementation of ai's nanoid",
     "scripts": {
@@ -11,6 +11,6 @@
     "author": "Carlos Alberto Costa Beppler <beppler@gmail.com>",
     "license": "MIT",
     "publishConfig": {
-        "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+        "@beppler:registry": "https://npm.pkg.github.com"
     }
 }

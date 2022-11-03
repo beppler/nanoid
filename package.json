@@ -1,0 +1,13 @@
+{
+  "name": "nanoid",
+  "version": "1.0.0",
+  "description": "Implementation of ai's nanoid",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nanoid"
+  ],
+  "author": "Carlos Alberto Costa Beppler <beppler@gmail.com>",
+  "license": "MIT"
+}

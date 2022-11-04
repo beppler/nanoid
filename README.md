@@ -10,11 +10,7 @@ In the same directory as your `package.json` file, create or edit a `.npmrc` fil
 @beppler:registry=https://npm.pkg.github.com
 ```
 
-You need also to create or edit a `~/.npmrc` and add a [Github personal access token (classic)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) replacing TOKEN to be able to login on Github packages (this token should have at least `read:packages` permission):
-
-```text
-//npm.pkg.github.com/:_authToken=TOKEN
-```
+You need also to authenticate on Github packages with a [personal access token](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-with-a-personal-access-token).
 
 After this you can install the package using npm using the following command:
 
